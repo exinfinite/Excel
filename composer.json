@@ -1,0 +1,23 @@
+{
+	"name": "exinfinite/excel",
+	"description": "excel操作",
+	"version": "1.1.0",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Exinfinite Chen",
+			"email": "chen.min.home@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Exinfinite\\": "src/"
+		}
+	},
+	"require": {
+		"php": "^5.6",
+		"phpoffice/phpexcel": "^1.8"
+	}
+}
