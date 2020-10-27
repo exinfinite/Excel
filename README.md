@@ -6,7 +6,6 @@
 
 ```json
 "repositories": [
-    ...,
     {
         "type": "vcs",
         "url": "https://github.com/exinfinite/Excel.git"
