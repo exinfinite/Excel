@@ -2,19 +2,6 @@
 
 ### 安裝
 
-先在composer.json中增加
-
-```json
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/exinfinite/Excel.git"
-    }
-]
-```
-
-執行安裝
-
 ```php
 composer require exinfinite/excel
 ```
