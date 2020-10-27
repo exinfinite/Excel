@@ -16,7 +16,7 @@
 執行安裝
 
 ```php
-composer require Exinfinite\Excel
+composer require exinfinite/excel
 ```
 
 ### 套件初始化
