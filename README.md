@@ -2,7 +2,7 @@
 
 ### 安裝
 
-先在composer.json中增加：
+先在composer.json中增加
 
 ```json
 "repositories": [
@@ -12,19 +12,21 @@
     }
 ]
 ```
+
+執行安裝
+
 ```php
 composer require Exinfinite\Excel
 ```
 
-### 初始化
+### 套件初始化
 
 ```php
 use Exinfinite\Excel;
-
 $excel = new Excel();
 ```
 
-### 使用
+### 使用方式
 
 ```php
 /**
