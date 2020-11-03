@@ -3,7 +3,7 @@
 	"description": "excel操作",
 	"version": "1.1.1",
 	"type": "library",
-	"license": "MIT",
+	"license": "LGPL-2.1",
 	"authors": [
 		{
 			"name": "Exinfinite Chen",
