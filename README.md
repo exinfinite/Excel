@@ -1,5 +1,9 @@
 # excel op by phpexcel
 
+[![Latest Stable Version](https://poser.pugx.org/exinfinite/excel/v)](//packagist.org/packages/exinfinite/excel)
+[![Total Downloads](https://poser.pugx.org/exinfinite/excel/downloads)](//packagist.org/packages/exinfinite/excel)
+[![License](https://poser.pugx.org/exinfinite/excel/license)](//packagist.org/packages/exinfinite/excel)
+
 ### 安裝
 
 ```php
