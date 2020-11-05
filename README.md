@@ -1,8 +1,10 @@
 # excel op by phpexcel
 
-[![Latest Stable Version](https://poser.pugx.org/exinfinite/excel/v)](//packagist.org/packages/exinfinite/excel)
-[![Total Downloads](https://poser.pugx.org/exinfinite/excel/downloads)](//packagist.org/packages/exinfinite/excel)
-[![License](https://poser.pugx.org/exinfinite/excel/license?1.1.0)](//packagist.org/packages/exinfinite/excel)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/exinfinite/Excel?style=plastic)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/exinfinite/Excel)
+![Packagist Version](https://img.shields.io/packagist/v/exinfinite/Excel)
+![Packagist Downloads](https://img.shields.io/packagist/dt/exinfinite/Excel)
+![GitHub](https://img.shields.io/github/license/exinfinite/Excel)
 
 ### 安裝
 
