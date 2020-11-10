@@ -1,6 +1,6 @@
 # excel op by phpexcel
 
-![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/exinfinite/Excel?style=plastic)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/exinfinite/Excel)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/exinfinite/Excel)
 ![Packagist Version](https://img.shields.io/packagist/v/exinfinite/Excel)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/exinfinite/Excel)
